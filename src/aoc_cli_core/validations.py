@@ -1,4 +1,4 @@
-from aoc_core.utils import get_default_year
+from .utils import get_default_year
 
 def is_valid_year(year: str):
     try:
